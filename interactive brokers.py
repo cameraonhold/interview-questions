@@ -1,3 +1,5 @@
+#calculate tax paid with given tax brackets, tax rates, and income
+
 input1 = [0, 1000.0, 3000.0]
 input2 = [0.1, 0.2, 0.3]
 input3 = 2000
